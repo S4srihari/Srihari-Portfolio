@@ -99,8 +99,6 @@ Email: ponakalasri13@gmail.com
 
 LinkedIn: linkedin.com/in/srihari-ponakala
 
-GitHub: github.com/S4srihari
-
 🏁 Conclusion
 
 This portfolio is not just a static webpage — it’s a personal statement about my passion for building things from the ground up.
